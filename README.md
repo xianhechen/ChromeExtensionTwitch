@@ -9,5 +9,6 @@
 - [ ] Amazon image searching script
 
 > A Google Chrome Extension Created by MSU Capstone Team Amazon
+
 > Powered by Amazon Web Services
 
