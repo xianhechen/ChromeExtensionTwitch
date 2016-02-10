@@ -1,4 +1,7 @@
+![twitch](http://bravenewcoin.com/assets/Uploads/_resampled/ResizedImage574162-twitch-logo-black.png)
+
 #Twitch.tv Google Chrome Extension
+
 #####What it does
 <p>Pulls data from the twitch.tv page you are currently on, change the user interface so that you can see top comments and view Amazon.com search results of things that people are talking about in the stream.
 #####Tasks
@@ -11,7 +14,7 @@
   - [x] connections between AWS EC2 and Web API
 - [ ] new popup.html interface
 - [ ] Amazon image searching script
-![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/2000px-AmazonWebservices_Logo.svg.png)
+
 
 
 
