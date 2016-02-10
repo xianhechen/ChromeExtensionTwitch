@@ -1,10 +1,18 @@
 ![twitch](http://bravenewcoin.com/assets/Uploads/_resampled/ResizedImage574162-twitch-logo-black.png)
 
 #Twitch.tv Google Chrome Extension
-
+######Last Updated: Feb 10th, 2016
 #####What it does
 <p>Pulls data from the twitch.tv page you are currently on, change the user interface so that you can see top comments and view Amazon.com search results of things that people are talking about in the stream.
-#####Tasks
+
+#####Our Team:
+ChineseThug
+SwaggyMax
+Chaz
+RichHomieCa$h
+PoAn
+
+#####Current Tasks
 
 - [ ] change twitch.tv interface
 - [ ] web intermediate API
