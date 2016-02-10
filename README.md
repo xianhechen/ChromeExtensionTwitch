@@ -1,7 +1,7 @@
 #Twitch.tv Google Chrome Extension
-<p>What it does
+> What it does
 <p>Pulls data from the twitch.tv page you are currently on, change the user interface so that you can see top comments and view Amazon.com search results of things that people are talking about in the stream.
-<p>Tasks
+>Tasks
 
 - [ ] change twitch.tv interface
 - [ ] web intermediate API
