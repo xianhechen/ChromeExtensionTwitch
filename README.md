@@ -11,7 +11,7 @@
   - [x] connections between AWS EC2 and Web API
 - [ ] new popup.html interface
 - [ ] Amazon image searching script
-![Minion](http://octodex.github.com/images/minion.png)
+![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/2000px-AmazonWebservices_Logo.svg.png)
 
 
 
