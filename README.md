@@ -11,6 +11,10 @@
   - [x] connections between AWS EC2 and Web API
 - [ ] new popup.html interface
 - [ ] Amazon image searching script
+![Minion](http://octodex.github.com/images/minion.png)
+
+
+
 
 > A Google Chrome Extension Created by MSU Capstone Team Amazon
 >> Powered by Amazon Web Services
